@@ -18,7 +18,7 @@ Depth map D – contains the normalized depth information.
 	Run main to see results and outputs
 	see lib.ipynb for functions and DIBR class
 ## 2. Running the code
-1. Upload Assignment_2 Folder to googleDrive and Run Assignment_2.ipynb
+1. Upload Assignment_2 Folder to googleDrive and Run Main.ipynb
 2. 
 
 
